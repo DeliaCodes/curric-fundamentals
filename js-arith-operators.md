@@ -1,11 +1,18 @@
-# 1.0. JavaScript's Operators for Arithmitic
+# 4. Making Things Modular
 
-## Main Content
+### Video Content
 
-[Text Course - Numbers Chapter](https://gitbookio.gitbooks.io/javascript/content/numbers/)
+[Module - Making Things Modular](https://app.pluralsight.com/player?course=what-is-programming&author=simon-allardice&name=what-is-programming-m5&clip=0&mode=live)
 
-## Exercise
+### Text Content
 
-## Extra Resources
+* [Functions](https://gitbookio.gitbooks.io/javascript/content/functions/)
+* [Arrays](https://gitbookio.gitbooks.io/javascript/content/arrays/)
+* [Objects](https://gitbookio.gitbooks.io/javascript/content/objects/)
 
-[Text Content - Eloquent Javascript's Values chapter](https://eloquentjavascript.net/01_values.html)
+### Practise
+
+* [Everything is a function](https://scrimba.com/p/pPPeCy/cpKZdcQ)
+* [The more the merrier](https://scrimba.com/p/pPPeCy/czM96Sr)
+* [When things get complicated](https://scrimba.com/p/pPPeCy/cwv7dHr)
+
